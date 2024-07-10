@@ -1,7 +1,7 @@
 Tour booking website in PHP-----Installation Steps(Configuration)
 
 1.Download and Unzip the file on your local system.
-2.Copy book_db folder and tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+2.Copy all files and paste inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
 Database Configuration
 
